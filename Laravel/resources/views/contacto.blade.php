@@ -19,11 +19,7 @@
             </div>
             <div class="form-group">
                 <label for="exampleTextArea">Mensaje</label>
-                <input type="text" class="form-text">
-            </div>
-            <div class="form-check">
-              <input type="checkbox" class="form-check-input" id="exampleCheck1">
-              <label class="form-check-label" for="exampleCheck1">Checkear</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="5" placeholder="Introduce tu mensaje aquí..."></textarea>
             </div>
             <button type="submit" class="btn btn-primary">Enviar</button>
           </form>

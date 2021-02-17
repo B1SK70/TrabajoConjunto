@@ -17,6 +17,7 @@
                 los escritos agronómicos del francés Antoine Parmentier y del irlandés afincado en España Enrique Doyle,
                 hasta convertirse en uno de los principales alimentos del ser humano.
             </p>
+            <img src="url(https://www.pequerecetas.com/wp-content/uploads/2012/10/0007591428L-849x565.jpg)">
             <hr>
 
         </div>

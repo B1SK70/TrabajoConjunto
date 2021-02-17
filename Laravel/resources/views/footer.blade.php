@@ -1,4 +1,4 @@
-<footer>Patata®</footer>
+<footer class="text-center bg-dark">Patata®</footer>
 
 </body>
 
