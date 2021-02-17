@@ -8,17 +8,16 @@
         <hr>
         <form>
             <div class="form-group">
-              <label for="exampleInputEmail1">Correo electrónico</label>
-              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-              <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+              <label for="exampleInputFullName">Nombre completo</label>
+              <input type="text" class="form-control" id="exampleInputFullName" placeholder="Introduce tu nombre...">
             </div>
             <div class="form-group">
-              <label for="exampleInputPassword1">Nombre</label>
-              <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+              <label for="exampleInputSubject">Asunto</label>
+              <input type="text" class="form-control" id="exampleInputSubject" placeholder="Asunto...">
             </div>
             <div class="form-group">
                 <label for="exampleTextArea">Mensaje</label>
-                <textarea class="form-control" id="exampleFormControlTextarea1" rows="5" placeholder="Introduce tu mensaje aquí..."></textarea>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="5" placeholder="Escribe aquí..."></textarea>
             </div>
             <button type="submit" class="btn btn-primary">Enviar</button>
           </form>
