@@ -9,10 +9,16 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="/">Inicio</a>
+                    <a class="nav-link" href="{{route('index')}}">Inicio</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/tipos">Tipos</a>
+                    <a class="nav-link" href="{{route('tipos')}}">Tipos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{route('historia')}}">Historia</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{route('contacto')}}">Contáctanos</a>
                 </li>
             </ul>
         </div>
