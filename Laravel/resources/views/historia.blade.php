@@ -2,10 +2,9 @@
 
 @include('header')
 
-    <h1 class="text-center text-light" style="margin-top: 100px;">Inicio</h1>
+    <h1 class="text-center text-light" style="margin-top: 100px;">Historia</h1>
     <div class="container">
         <div class="bg-light text-center abs-center mt-3 p-3 rounded">
-            <h1>Historia</h1>
             <hr>
             <p>
             La patata es originaria de América del Sur donde para los indígenas era un alimento básico. No fue hasta el siglo XIX, cuando Europa se interesó por cultivarla de forma intensiva.

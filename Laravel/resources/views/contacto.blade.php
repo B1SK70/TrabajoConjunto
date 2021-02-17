@@ -2,10 +2,9 @@
 
 @include('header')
 
-<h1 class="text-center text-light" style="margin-top: 100px;">Inicio</h1>
+<h1 class="text-center text-light" style="margin-top: 100px;">Contáctanos</h1>
 <div class="container">
     <div class="bg-light text-center abs-center mt-3 p-3 rounded">
-        <h1>Contacto</h1>
         <hr>
         <form>
             <div class="form-group">
