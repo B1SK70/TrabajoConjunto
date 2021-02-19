@@ -2,10 +2,9 @@
 
 @include('header')
 
-    <h1 class="text-center text-light" style="margin-top: 100px;">Inicio</h1>
+    <h1 class="text-center text-light" style="margin-top: 100px;">Tipos de patatas</h1>
     <div class="container">
         <div class="bg-light text-center abs-center mt-3 p-3 rounded">
-            <h1>Tipos de patatas</h1>
             <hr>
             <h3>Monalisa</h3>
             <p>La patata Monalisa es una de las variedades preferidas por el público porque se mantiene entera durante la cocción, es económica y absorbe poco aceite, siendo de forma regular. Esta patata es ideal para hornear o guisar, pero también responde bien si la vas a freír. Por este motivo, te la encontrarás en la mayoría de fruterías del país
