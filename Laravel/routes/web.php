@@ -19,3 +19,5 @@ Route::get("/", [ViewController::class, "index"])->name("index");
 Route::get("/TiposPatata", [ViewController::class, "tipos"])->name("tipos");
 Route::get("/Historia", [ViewController::class, "historia"])->name("historia");
 Route::get("/Contacto", [ViewController::class, "contacto"])->name("contacto");
+Route::post('contacto', [MailController::class, 'store'])->name('enviado');  
+
